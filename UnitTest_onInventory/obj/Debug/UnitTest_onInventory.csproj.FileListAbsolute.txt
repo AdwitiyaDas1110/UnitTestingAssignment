@@ -1,0 +1,14 @@
+C:\Users\adwitiya\source\repos\UnitTest_onInventory\UnitTest_onInventory\bin\Debug\UnitTest_onInventory.exe.config
+C:\Users\adwitiya\source\repos\UnitTest_onInventory\UnitTest_onInventory\bin\Debug\UnitTest_onInventory.exe
+C:\Users\adwitiya\source\repos\UnitTest_onInventory\UnitTest_onInventory\bin\Debug\UnitTest_onInventory.pdb
+C:\Users\adwitiya\source\repos\UnitTest_onInventory\UnitTest_onInventory\obj\Debug\UnitTest_onInventory.csprojResolveAssemblyReference.cache
+C:\Users\adwitiya\source\repos\UnitTest_onInventory\UnitTest_onInventory\obj\Debug\UnitTest_onInventory.csproj.CoreCompileInputs.cache
+C:\Users\adwitiya\source\repos\UnitTest_onInventory\UnitTest_onInventory\obj\Debug\UnitTest_onInventory.exe
+C:\Users\adwitiya\source\repos\UnitTest_onInventory\UnitTest_onInventory\obj\Debug\UnitTest_onInventory.pdb
+C:\Users\adwitiya\Desktop\UnitTest_onInventory\UnitTest_onInventory\bin\Debug\UnitTest_onInventory.exe.config
+C:\Users\adwitiya\Desktop\UnitTest_onInventory\UnitTest_onInventory\bin\Debug\UnitTest_onInventory.exe
+C:\Users\adwitiya\Desktop\UnitTest_onInventory\UnitTest_onInventory\bin\Debug\UnitTest_onInventory.pdb
+C:\Users\adwitiya\Desktop\UnitTest_onInventory\UnitTest_onInventory\obj\Debug\UnitTest_onInventory.csprojResolveAssemblyReference.cache
+C:\Users\adwitiya\Desktop\UnitTest_onInventory\UnitTest_onInventory\obj\Debug\UnitTest_onInventory.csproj.CoreCompileInputs.cache
+C:\Users\adwitiya\Desktop\UnitTest_onInventory\UnitTest_onInventory\obj\Debug\UnitTest_onInventory.exe
+C:\Users\adwitiya\Desktop\UnitTest_onInventory\UnitTest_onInventory\obj\Debug\UnitTest_onInventory.pdb
